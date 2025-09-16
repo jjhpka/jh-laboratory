@@ -1,0 +1,41 @@
+{
+  "lastModified": "2025-09-15T18:17:15.507681",
+  "todos": [
+    {
+      "id": "move-mocking-cells",
+      "content": "모킹 예제 셀들을 mocking.ipynb 파일로 이동",
+      "status": "completed",
+      "priority": "high",
+      "created_at": "2025-09-15T18:14:08.635303",
+      "updated_at": "2025-09-15T18:17:15.507681",
+      "metadata": null
+    },
+    {
+      "id": "mock-tutorial",
+      "content": "Python 모킹 객체 사용법 설명 및 예제 작성",
+      "status": "completed",
+      "priority": "high",
+      "created_at": "2025-09-15T18:12:41.943832",
+      "updated_at": "2025-09-15T18:17:15.507681",
+      "metadata": null
+    },
+    {
+      "id": "fix-pip-module",
+      "content": "가상환경에 pip 모듈 설치 또는 복구",
+      "status": "pending",
+      "priority": "high",
+      "created_at": "2025-09-15T15:51:20.776264",
+      "updated_at": "2025-09-15T18:17:15.507681",
+      "metadata": null
+    },
+    {
+      "id": "install-ipykernel",
+      "content": "ipykernel 패키지 설치",
+      "status": "pending",
+      "priority": "medium",
+      "created_at": "2025-09-15T15:51:20.776264",
+      "updated_at": "2025-09-15T18:17:15.507681",
+      "metadata": null
+    }
+  ]
+}

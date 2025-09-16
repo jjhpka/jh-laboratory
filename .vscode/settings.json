@@ -1,0 +1,23 @@
+{
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/.idea": true,
+        "**/.vscode": true,
+        "**/.env": true,
+        "**/.mcp-todos.json": true,
+        ".python-version": true,
+        ".venv": true,
+        "uv.lock": true,
+        "pyproject.toml": true,
+        "README.md": true,
+        ".cursor": true,
+        ".vscode": true,
+        ".mcp-todos.json": true,
+        ".gitignore": true,
+    },
+    "chatgpt.openOnStartup": false
+}
