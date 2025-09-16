@@ -38,7 +38,7 @@
       }
     }
   },
-  "postCreateCommand": "pip install uv && uv sync && echo '🚀 Codespace ready! Python: $(python --version)'",
+  "postCreateCommand": "pip install uv && uv sync --no-dev && echo '🚀 Codespace ready! Python: $(python --version)'",
   "forwardPorts": [8000, 8080, 3000, 8888],
   "portsAttributes": {
     "8888": {
