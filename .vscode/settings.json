@@ -1,23 +1,19 @@
 {
-    "files.exclude": {
-        "**/.git": true,
-        "**/.svn": true,
-        "**/.hg": true,
-        "**/CVS": true,
-        "**/.DS_Store": true,
-        "**/.idea": true,
-        "**/.vscode": true,
-        "**/.env": true,
-        "**/.mcp-todos.json": true,
-        ".python-version": true,
-        ".venv": true,
-        "uv.lock": true,
-        "pyproject.toml": true,
-        "README.md": true,
-        ".cursor": true,
-        ".vscode": true,
-        ".mcp-todos.json": true,
-        ".gitignore": true,
+    "python.defaultInterpreterPath": "/home/gitpod/.pyenv/versions/3.13.1/bin/python",
+    "python.formatting.provider": "black",
+    "python.linting.enabled": true,
+    "python.linting.flake8Enabled": true,
+    "python.linting.pylintEnabled": true,
+    "jupyter.askForKernelRestart": false,
+    "jupyter.alwaysTrustNotebooks": true,
+    "files.associations": {
+        "*.ipynb": "jupyter-notebook"
     },
-    "chatgpt.openOnStartup": false
+    "workbench.colorTheme": "Default Dark+",
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+        "source.organizeImports": "explicit"
+    },
+    "python.analysis.autoImportCompletions": true,
+    "python.analysis.typeCheckingMode": "basic"
 }
